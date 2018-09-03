@@ -11,5 +11,3 @@ tags:
 This site will probably be work in progress for a long time. A blank canvas waiting to be filled with cool tech ideas and fun projects. 
 
 My name is Nicolas, and I'm an engineer currently based out of Europe. My interests are around computer vision, urban tech, data science, and creating sustainable business models. I'm also a Porteño, River Plate's fan, and food-lover.
-
-Feel free to drop me a line anytime at nicolas.metallo {at} nyu.edu
