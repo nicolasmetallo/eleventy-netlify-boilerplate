@@ -1,27 +1,15 @@
 ---
-title: About us
+title: About Me
+date: 2018-09-03T03:00:00.000Z
+permalink: /about/index.html
+navtitle: About
 tags:
   - nav
-navtitle: About
-section: about
-date: 2017-01-01
-permalink: /about/index.html
 ---
+Nicolas is an award-winning entrepreneur with nearly 10 years of professional experience. He recently graduated from New York University with an MSc in Technology Management & Innovation and he works as a management consultant and freelance deep learning engineer. With a blend of strong technical and business knowledge, Nicolas has worked directly with VP, SVP, and C-level clients from companies with $10M to $1.8B turnover building successful innovation strategies around Smart Cities, Manufacturing, Fashion, and Healthcare.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+His particular interest in data science is focused on providing cities with tools and insights that makes them more connected, efficient, resilient, vibrant, and prosperous. This includes designing IoT applications and using deep learning to create algorithms for object detection and tracking, image classification, semantic image segmentation, and pattern recognition. 
 
-## Our services
+Nicolas is also the co-founder of INVIP Labs Inc., a social enterprise that helps blind and low vision individuals understand their environment better through computer vision.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-### Blue-sky thinking
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+**Technologies:** Python, Tensorflow (Framework & TF Serving), PyTorch, OpenCV, Scikit-Learn (SVM, PCA, LDA, etc.), CNN, Mask R-CNN, RNN (LSTM, GRU), Numpy, Pandas, Matplotlib, SQL, MySQL, Oracle, Tableau, PowerBI, Amazon Web Services, Microsoft Azure, Google Cloud.
