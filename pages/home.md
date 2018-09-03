@@ -6,7 +6,7 @@ navtitle: Home
 tags:
   - nav
 ---
-# Hey there.
+## Hey there.
 
 This site will probably be work in progress for a long time. A blank canvas waiting to be filled with cool tech ideas and fun projects. 
 
