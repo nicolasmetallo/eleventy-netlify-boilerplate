@@ -1,5 +1,5 @@
 ---
-title: 1.Home
+title: Home
 date: 2018-08-01T03:00:00.000Z
 permalink: /
 navtitle: Home
