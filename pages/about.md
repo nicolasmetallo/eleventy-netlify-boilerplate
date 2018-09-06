@@ -13,3 +13,5 @@ His particular interest in data science is focused on providing cities with tool
 Nicolas is also the co-founder of INVIP Labs Inc., a social enterprise that helps blind and low vision individuals understand their environment better through computer vision.
 
 **Technologies:** Python, Tensorflow (Framework & TF Serving), PyTorch, OpenCV, Scikit-Learn (SVM, PCA, LDA, etc.), CNN, Mask R-CNN, RNN (LSTM, GRU), Numpy, Pandas, Matplotlib, SQL, MySQL, Oracle, Tableau, PowerBI, Amazon Web Services, Microsoft Azure, Google Cloud.
+
+You can also check out my [Medium](https://medium.com/@nicolas.metallo) and [Github](https://github.com/nicolasmetallo).
