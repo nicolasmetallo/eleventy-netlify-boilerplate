@@ -18,3 +18,4 @@ Lorem ipsum.
 * [Practical Deep Learning for Coders](http://course.fast.ai/)
 * [Curated list of AI and machine learning resources](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 * [Otra lista curated](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Machine Learning Resources For Artists](http://ml4a.github.io)
