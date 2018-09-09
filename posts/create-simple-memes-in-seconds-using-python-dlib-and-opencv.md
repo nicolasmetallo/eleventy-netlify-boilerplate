@@ -14,7 +14,7 @@ tags:
 ---
 # eameo-faceswap-generator
 Inspired by the amazing work done daily by [Eameo](https://twitter.com/EameoOk), I put together this simple script that
-switch faces between two input images. You can run the step-by-step ipynb in [Google Colab](https://colab.research.google.com)
+switch faces between two input images. You can run the step-by-step ipynb in [Google Colab](https://colab.research.google.com/github/nicolasmetallo/eameo-faceswap-generator/blob/master/face-swap-step-by-step.ipynb)
 or run ```python faceswap.py``` directly.
 # Installation
 This script supports Python 2.7 and 3.6.
@@ -22,6 +22,14 @@ This script supports Python 2.7 and 3.6.
 ````
 $ git clone https://github.com/nicolasmetallo/eameo-faceswap-generator.git
 ````
+## Install Dlib
+Run the following to install Dlib in Google Colaboratory.
+````
+!apt update
+!apt install -y cmake
+!pip install dlib
+````
+Click here for [MacOS/Ubuntu](https://www.pyimagesearch.com/2018/01/22/install-dlib-easy-complete-guide) instructions or [Windows](https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only). 
 ## Pre-requisites
 Run the following to install required modules
 ````
@@ -35,6 +43,6 @@ This script requires the user to input three file paths which can be local paths
 
 Now let's take two input images and set ```result.jpg``` as the output file.
 ```
-$ python faceswap.py input1.jpg input2.jpg result.jpg
+$ python faceswap.py image1.jpg image2.jpg result.jpg
 ```
-<img src="https://i.imgur.com/Z4oac7a.png">
+<img src="https://i.imgur.com/Wkya5C0.png" height=100% width=100%>
