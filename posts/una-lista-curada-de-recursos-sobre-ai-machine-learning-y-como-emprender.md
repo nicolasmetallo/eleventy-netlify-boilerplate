@@ -26,6 +26,8 @@ Voy a intentar mantener este post lo mas actualizado posible con una multitud de
 * [Practical Machine Learning with Python](https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=OGxgnH8y2NM)
 
 ## Otros recursos
+* [Machine Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+* [Deep Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 * [Yet Another Computer Vision Dataset](https://riemenschneider.hayko.at/vision/dataset)
 * [Machine Learning Resources For Artists](http://ml4a.github.io)
 * [Friendly Machine Learning for the Web (NYU)](https://ml5js.org)
