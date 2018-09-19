@@ -1,5 +1,5 @@
 ---
-title: '# Image Recognition with NVIDIA Digits in Amazon ECS Docker Containers'
+title: Image Recognition with NVIDIA Digits in Amazon ECS Docker Containers
 date: 2018-09-19T23:18:33.573Z
 summary: >-
   Step by Step tutorial to run NVIDIA Digits in an Amazon EC2 instance and
