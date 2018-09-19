@@ -1,7 +1,7 @@
 ---
 title: >-
-  Infer household income in Buenos Aires based on household characteristics for
-  census data
+  Predict household income in Buenos Aires based on household characteristics
+  for census data
 date: 2018-09-19T22:57:58.241Z
 summary: >-
   Understanding demographics is a crucial part of the policy making process, but
