@@ -17,7 +17,7 @@ I'll be following this [repo](https://github.com/IBM/elasticsearch-spark-recomme
 
 ## Installation
 
-<img src=https://github.com/IBM/elasticsearch-spark-recommender/raw/master/doc/source/images/architecture.png height=50% width=50%>
+<img src=https://github.com/IBM/elasticsearch-spark-recommender/raw/master/doc/source/images/architecture.png height=100% width=100%>
 
 ### 1. Clone the IBM repository
 
