@@ -21,7 +21,7 @@ I'll be following this [repo](https://github.com/IBM/elasticsearch-spark-recomme
 
 ## Installation
 
-![alt text](https://github.com/IBM/elasticsearch-spark-recommender/raw/master/doc/source/images/architecture.png "Architecture")
+![alt text](https://github.com/IBM/elasticsearch-spark-recommender/raw/master/doc/source/images/architecture.png "Architecture" height=50% width=50%)
 
 ### 1. Clone the IBM repository
 
@@ -106,10 +106,9 @@ $ pip install jupyter
 Run the following command to launch your PySpark notebook server locally.
 
 ```
-PYSPARK_DRIVER_PYTHON="jupyter" PYSPARK_DRIVER_PYTHON_OPTS="notebook" ../spark-2.3.1-bin-hadoop2.7/bin/pyspark --driver-memory 4g --driver-class-path ../../elasticsearch-hadoop-5.3.0/dist/elasticsearch-spark-20_2.11-5.3.0.jar
+$ PYSPARK_DRIVER_PYTHON="jupyter" PYSPARK_DRIVER_PYTHON_OPTS="notebook" ../spark-2.3.1-bin-hadoop2.7/bin/pyspark --driver-memory 4g --driver-class-path ../../elasticsearch-hadoop-5.3.0/dist/elasticsearch-spark-20_2.11-5.3.0.jar
 ```
-This should open a browser window with the Code Pattern folder contents displayed. Click on the notebooks subfolder and then click on the ```
-```elasticsearch-spark-recommender.ipynb``` file to launch the notebook.
+This should open a browser window with the Code Pattern folder contents displayed. Click on the notebooks subfolder and then click on the ```elasticsearch-spark-recommender.ipynb``` file to launch the notebook.
 
 
 ![alt text](https://github.com/IBM/elasticsearch-spark-recommender/raw/master/doc/source/images/launch-notebook.png "jupyter notebook")
