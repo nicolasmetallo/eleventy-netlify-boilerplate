@@ -1,5 +1,5 @@
 ---
-title: AMAZON MARKETING ANALYSIS
+title: Amazon Marketing Analysis
 date: 2018-09-19T23:58:25.724Z
 summary: >-
   This article analyses the reasons why, even among other tech giants of this
@@ -35,40 +35,42 @@ Amazon’s first objective is to be completely focused on providing superior cus
 Amazon’s second objective is to be recognized as an “invention machine”, as characterized by its CEO in its annual letter to shareholders. Amazon has replaced profits with growth, and has a reputation to continuously test new markets that are not part of their core business. We can see that happening with their Prime Instant Video streaming service, where Amazon will spend $6B this year (2017) to produce original content, only second to Netflix whose whole core business is Video streaming.
 
 # MARKETING MIX (4 PS)
-## 1. PRODUCT
+
+### 1. PRODUCT
 - Amazon’s marketplace has an extensive product line with more than 400M products currently available, from books to electronics to grocery items.
 - Amazon offers several products within its line of consumer electronics, mainly Amazon Kindle, Fire, Fire TV, Dash, Echo, Dot, and most recently, Look.
 - Prime Instant Video streaming services present itself as an alternative to Netflix delivering both original and non-original content to the consumer.
 - Amazon Prime gives the user 2-day free shipping with unlimited access to movies and television, while also having other perks, like free ebooks each month.
 - Amazon private label products that range from batteries (AmazonBasics), through household items (Amazon Elements) to fashion (Amazon Fashion).
 
-## 2. PLACE/DISTRIBUTION
+### 2. PLACE/DISTRIBUTION
 - Extensive distribution network across that consist of 240 fulfillment centres in the USA and 153 around the globe, bringing the total number to almost 400. (MWPVL, 2017). The last mile of the product delivery is normally done with UPS, USPS and FedEx in North America.
 - Partnerships with transportation startups mainly in Europe to provide for the last mile, and even Amazon own attempts at Uber with Amazon Flex.
 
-## 3. PROMOTION
-### 3.1 Advertisement
+### 3. PROMOTION
+#### 3.1 Advertisement
 - Ads on television and print media
 - Targeted ads based on browsing patterns
 - Targeted email marketing
 - Sales promotions like “Amazon Prime day”
-### 3.2 Public relations
-### 3.3 Direct marketing
+#### 3.2 Public relations
+#### 3.3 Direct marketing
 
-## 4. PRICE
+### 4. PRICE
 - Pricing algorithm that continuously checks prices with other online stores to ensure that Amazon has the best price. May be possibly biased towards giving higher positioning to companies that are enrolled in their Fulfillment by Amazon (FBA) program. (ProPublica, 2016)
+
 
 # MARKETING STRATEGY
 One interesting point about Amazon customer segmentation is that it’s not based on questions about where you are from or even your lifestyle, it’s based on actual purchase behaviour from the consumer. Each time you search or view an item, Amazon will show you related products that other consumers have purchased, refining its algorithm from each interaction or purchase you make. One may also say that this way when we consider people who purchased the same book, we may find a common pattern among that audience about their income, education and age. There are three key behavioral segmentation used by Amazon:
 
-### Loyalty status
+#### Loyalty status
 - Measure browsing patterns and purchasing history
 
-### Buyer readiness stage
+#### Buyer readiness stage
 - Ability to create a wishlist, and add items to cart later
 - Measure communication strategy performance to move the consumer to the actual purchase
 
-### User status
+#### User status
 - Send notifications to users (product availability, complaints, deliveries, etc)
 
 In Amazon’s marketplace, every consumer sees a different home page that’s tailored specifically to them, meaning that Amazon understands exactly how they spent their money yesterday, today and how they may do it tomorrow. When we add the fact that Amazon Alexa knows what type of questions you ask and what items you only order through that device (everyday items), it may develop in the future an AI that would suggest purchases based on your previous history. According to reports from L2Inc (2016), only 3 to 5% of the shopping we do is actually enjoyable, so creating a powerful algorithm that understands and knows your needs almost perfectly can take the pain of “boring” purchases away from you and become a huge success.
@@ -76,17 +78,17 @@ In Amazon’s marketplace, every consumer sees a different home page that’s ta
 This type of dynamic segmentation is different to segmentation normally done by marketers, being based in reality rather than some prediction taking a small sample of people and making guesses about their purchasing behaviour. Amazon has been dedicated to track every interaction that the consumer does in their website and improve their search algorithm each time you make a new purchase, marginally altering the recommendations that another user will see.
 
 # MARKETING CAMPAIGNS
-## AMAZON PRIME DAY
+### AMAZON PRIME DAY
 On its first year in existence, Amazon Prime Day showed more sales than on its previous Black Friday, which was already a record in itself. There was also a 60% increase in last year Prime Day when compared to 2015. This shows the tremendous success that Amazon has had in what many called the biggest day for online retailers.
 
 With 80 million Amazon Prime subscribers already signed up on the platform, the cost of acquisition of new members is not small, and Amazon does a great job showcasing the benefits of its monthly or yearly subscription service. They have basically chosen a day outside of the sales season and have created a tremendous amount of buzz around it, driving twice more traffic on a single day than Walmart, Target and Ebay combined. (Digital Commerce, 2016)
 
-## AMAZON FASHION
+### AMAZON FASHION
 There’s one category within Amazon marketplace that has seen tremendous growth during the last few years: Apparel. Amazon has been investing these last few years to reinvent itself as the next fashion destination for consumers and many brands are taking advantage of its distribution infrastructure and huge customer base. Its move into the fashion industry involves the creation of its own private fashion label called Amazon Fashion with seven in-house brands, and the fact that by 2017 they will become the largest clothing retailer in the US. (Quartz, 2016).
 
 Amazon Fashion has taken off by placing top agencies working on ads for television and the internet. Response from the public is good but Amazon private label remains still unknown to most, and more marketing efforts should be undertaken. (Gott, 2016)
 
-## AMAZON IN INDIA
+### AMAZON IN INDIA
 The Indian e-commerce market is very different than the USA, with its young (65% under the age of 35) and rural population (67% live in rural areas). Infrastructure is lacking, most of the retail is handled by small mom-and-pop shops, and there are regulations against FDI that can jeopardize Indian retailers. Amazon had to understandably change their business model in order to meet the demands of the Indian market and that explains why, since the moment they set foot in India, they established a Glocal strategy of adapting their value proposition to the local particularities of the place where they will be established. (HBR, 2016)
 
 Amazon marketing campaign started with the ad “Aur Dikhao Aur Dikhao” (See Exhibit 1), where they show how much value can the platform and its simplicity bring to everyday situations. Then it continued with “Kya Pehnu Kya Pehnu” (See Exhibit 2) that showed an Indian girl who cannot decide what to wear to go out with their friends. And finally, they aired “ek baar Amazon try toh kar” (See Exhibit 3) with the objective to demonstrate that there’s an easy return policy for customers in case they are not satisfied, targeting specifically the fear of change that Indian have.
