@@ -16,7 +16,11 @@ Voy a intentar mantener este post lo mas actualizado posible con una multitud de
 
 # Inteligencia Artificial / Machine Learning
 ## Cursos en Video
+* [Introduction to Machine Learning for Coders](http://course.fast.ai/ml)
 * [Practical Deep Learning for Coders](http://course.fast.ai/)
+* [Cutting Edge Deep Learning for Coders](http://course.fast.ai/part2.html)
+* [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+* [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 * [Machine Learning Course con Andrew Ng (Prof. Stanford University)](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN).
 * [Tensorflow for Deep Learning Research](https://www.youtube.com/watch?v=g-EvyKpZjmQ&t=0s&list=WL&index=17)
 * [Stanford CS231n – Convolutional Neural Networks for Visual Recognition (Winter 2016)](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA). [Link a la clase](http://cs231n.stanford.edu)
@@ -26,6 +30,7 @@ Voy a intentar mantener este post lo mas actualizado posible con una multitud de
 * [Practical Machine Learning with Python](https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=OGxgnH8y2NM)
 
 ## Otros recursos
+* Computational Linear Algebra: [Online textbook](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) and [Videos](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 * [Machine Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 * [Deep Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 * [Yet Another Computer Vision Dataset](https://riemenschneider.hayko.at/vision/dataset)
