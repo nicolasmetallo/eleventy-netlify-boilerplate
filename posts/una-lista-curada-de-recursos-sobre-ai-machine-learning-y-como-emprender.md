@@ -30,6 +30,10 @@ Voy a intentar mantener este post lo mas actualizado posible con una multitud de
 * [Practical Machine Learning with Python](https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=OGxgnH8y2NM)
 
 ## Otros recursos
+* [Hoja de referencia de Aprendizaje Supervisado](https://stanford.edu/~shervine/l/es/teaching/cs-229/hoja-referencia-aprendizaje-supervisado)
+* [Hoja de Referencia de Aprendizaje no Supervisado](https://stanford.edu/~shervine/l/es/teaching/cs-229/hoja-referencia-aprendizaje-no-supervisado)
+* [Hoja de referencia de Aprendizaje profundo](https://stanford.edu/~shervine/l/es/teaching/cs-229/hoja-referencia-aprendizaje-profundo)
+* [Hoja de referencia de consejos y trucos sobre Aprendizaje Automático](https://stanford.edu/~shervine/l/es/teaching/cs-229/hoja-referencia-aprendizaje-automatico-consejos-trucos)
 * Computational Linear Algebra: [Online textbook](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) and [Videos](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 * [Machine Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 * [Deep Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
